@@ -5,11 +5,12 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "build": "vite build --mode production"
     },
     "dependencies": {
-        "@walletconnect/modal-sign-html": "2.6.1",
-        "react-scripts": "^5.0.1"
+        "@walletconnect/modal-sign-html": "2.6.1"
+        
+        
     },
     "devDependencies": {
         "vite": "4.3.9"
