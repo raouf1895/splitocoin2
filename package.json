@@ -4,7 +4,8 @@
     "version": "2.6.1",
     "type": "module",
     "scripts": {
-      "dev": "vite"
+      "dev": "vite",
+      "build": "vite build"
     },
     "dependencies": {
       "@walletconnect/modal-sign-html": "2.6.1"
