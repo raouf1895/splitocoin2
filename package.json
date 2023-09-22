@@ -3,6 +3,7 @@
     "private": true,
     "version": "2.6.1",
     "type": "module",
+    "main": "index.html",
     "scripts": {
         "dev": "vite",
         "build": "node -v && npm -v && npm clean-install && next build",
